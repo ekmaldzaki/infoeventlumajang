@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Cultural Harmony Fest",
+    "description": "Perayaan kolaborasi budaya dan musik tradisional di Lumajang.",
+    "contact": "https://wa.me/6285179856864",
+    "social": "https://www.instagram.com/infoeventlumajang",
+    "image": "/events/event1.webp",
+    "date": "2025-12-21",
+    "category": "Budaya"
+  },
+  {
+    "id": 2,
+    "title": "Nature & Art Camp",
+    "description": "Eksplorasi seni dan alam di desa Kandangan bersama seniman lokal.",
+    "contact": "https://wa.me/6285179856864",
+    "social": "https://www.instagram.com/infoeventlumajang",
+    "videoEmbed": "<iframe src='https://www.instagram.com/reel/C4e4xJmBabc/embed' width='100%' height='400' frameborder='0' allowfullscreen></iframe>",
+    "date": "2025-11-10",
+    "category": "Outdoor"
+  },
+  {
+    "id": 3,
+    "title": "Coffee Talk Lumajang",
+    "description": "Diskusi kreatif antar komunitas kopi dan UMKM lokal.",
+    "contact": "https://wa.me/6285179856864",
+    "social": "https://www.instagram.com/infoeventlumajang",
+    "image": "/events/event2.webp",
+    "date": "2025-10-25",
+    "category": "Komunitas"
+  },
+  {
+    "id": 4,
+    "title": "Lumajang Night Ride",
+    "description": "Gowes santai malam tahun baru dengan suasana kota yang hidup.",
+    "contact": "https://wa.me/6285179856864",
+    "social": "https://www.instagram.com/infoeventlumajang",
+    "image": "/events/event3.webp",
+    "date": "2025-12-31",
+    "category": "Olahraga"
+  },
+  {
+    "id": 5,
+    "title": "New Year Village Festival",
+    "description": "Perayaan malam tahun baru di desa dengan musik, kuliner, dan api unggun.",
+    "contact": "https://wa.me/6285179856864",
+    "social": "https://www.instagram.com/infoeventlumajang",
+    "videoEmbed": "<iframe src='https://www.instagram.com/reel/C4e4xJmBabc/embed' width='100%' height='400' frameborder='0' allowfullscreen></iframe>",
+    "date": "2025-12-31",
+    "category": "Festival"
+  }
+]
