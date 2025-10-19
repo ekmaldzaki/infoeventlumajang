@@ -21,7 +21,12 @@ export const metadata: Metadata = {
   description:
     "Temukan event, budaya, dan kolaborasi komunitas terbaik di Lumajang. Platform berbagi kegiatan lokal dan eksplorasi budaya.",
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/android-chrome-192x192.png", type: "image/png" },
+      { url: "/android-chrome-512x512.png", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Info Event Lumajang",
