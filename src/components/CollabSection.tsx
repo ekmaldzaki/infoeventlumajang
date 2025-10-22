@@ -21,7 +21,7 @@ export default function CollabSection() {
         </p>
         <a
           href="mailto:infoeventlumajang@gmail.com"
-          className="inline-block bg-gradient-to-r from-sky-600 to-sky-500 text-white px-8 py-3 rounded-xl font-medium hover:from-sky-700 hover:to-sky-600 transition shadow-md"
+          className="inline-block bg-gradient-to-r from-sky-600 to-sky-500 text-white px-4 sm:px-8 py-3 rounded-xl font-medium hover:from-sky-700 hover:to-sky-600 transition shadow-md text-sm sm:text-base w-full sm:w-auto"
         >
           <Mail className="inline w-5 h-5 mr-2" />
           infoeventlumajang@gmail.com
